@@ -1,0 +1,30 @@
+{
+  "name": "oled-menu",
+  "version": "1.0.0",
+  "description": "Menu Management for oled screens with cursor buttons.",
+  "main": "menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmakeit/node-oled-menu.git"
+  },
+  "keywords": [
+    "Raspberry",
+    "Pi",
+    "Pi",
+    "oled"
+  ],
+  "author": "Blixa Morgan <blixa@projectmakeit.com> (MrMakeIt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmakeit/node-oled-menu/issues"
+  },
+  "homepage": "https://github.com/mrmakeit/node-oled-menu#readme",
+  "dependencies": {
+    "i2c-bus": "^1.2.2",
+    "oled-font-5x7": "^1.0.0",
+    "oled-i2c-bus": "^1.0.10"
+  }
+}
