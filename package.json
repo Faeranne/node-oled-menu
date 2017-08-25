@@ -1,6 +1,6 @@
 {
   "name": "oled-menu",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Menu Management for oled screens with cursor buttons.",
   "main": "menu.js",
   "scripts": {
@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/mrmakeit/node-oled-menu#readme",
   "dependencies": {
-    "i2c-bus": "^1.2.2",
     "oled-font-5x7": "^1.0.0",
     "oled-i2c-bus": "^1.0.10"
   }
